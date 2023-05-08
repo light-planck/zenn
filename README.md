@@ -1,3 +1,3 @@
-# Zenn CLI
+# Zennの記事を管理
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+[Zennアカウント](https://zenn.dev/light_planck)

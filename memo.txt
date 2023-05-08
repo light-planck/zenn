@@ -1,2 +1,5 @@
 マークダウンガイド
 https://zenn.dev/zenn/articles/markdown-guide
+
+CLIガイド
+https://zenn.dev/zenn/articles/zenn-cli-guide
