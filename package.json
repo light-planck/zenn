@@ -1,6 +1,9 @@
 {
   "name": "zenn",
   "type": "module",
+  "scripts": {
+    "pv": "zenn preview"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
