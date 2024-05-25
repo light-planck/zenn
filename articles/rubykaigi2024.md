@@ -2,7 +2,7 @@
 title: "RubyKaigi2024参加レポート"
 emoji: "🌺"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["Ruby","RubyKaigi"]
+topics: ["Ruby","RubyKaigi", "rubykaigi2024"]
 published: false
 ---
 
@@ -34,17 +34,20 @@ GitHubでコードが公開されているので、帰宅後改めて手元で�
 
 （このキーノートで初めてQuineという概念を知りました）
 
-### Exploring Reline: Enhancing Command Line Usability
+### [Exploring Reline: Enhancing Command Line Usability](https://rubykaigi.org/2024/presentations/ima1zumi.html#day1)
 
-b
+お恥ずかしながら、Relineの存在をこの発表で初めて知りました。irbが使いやすいのは君のおかげだったんだね・・・！いつもありがとう。
+Relineが動作するフローはとても興味深かったです。
+サンプルプログラムが簡潔だったり、イラストも豊富でとても分かりやすかったです。
 
-### It's about time to pack Ruby and Ruby scripts in one binary
+### [It's about time to pack Ruby and Ruby scripts in one binary](https://rubykaigi.org/2024/presentations/ahogappa0613.html#day2)
 
-c
+Ruby、スクリプト、Gemを1つの実行ファイルにパッケージするGemである[Kompo](https://github.com/ahogappa0613/kompo)の発表でした。
+Sinatraのアプリケーションをバイナリに変換して実際に実行するデモは面白かったです。Railsにはまだ対応していないとのことでした。今後の開発が楽しみです。
 
-### Speeding up Instance Variables with Red-Black Trees
+### [Speeding up Instance Variables with Red-Black Trees](https://rubykaigi.org/2024/presentations/tenderlove.html#day3)
 
-d
+赤黒木を用いて
 
 ### [Matz Keynote](https://rubykaigi.org/2024/presentations/yukihiro_matz.html#day3)
 
