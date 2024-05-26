@@ -8,9 +8,9 @@ published: false
 
 ## はじめに
 
-RubyKaigi2024に参加しました。
-本記事では、Ruby歴半年・RubyKaigi初参加の私の感想や、印象的なセッションについて紹介します。
-また、初回参加にあたって知りたかったことをまとめてみました。
+[RubyKaigi 2024](https://rubykaigi.org/2024/)に参加しました。
+私はRuby歴半年でRubyKaigi初参加です。
+本記事では、そんな私の感想や初回参加にあたって知りたかったことをまとめてみました。
 
 ![](/images/rubykaigi2024/venue.jpg =350x)
 
