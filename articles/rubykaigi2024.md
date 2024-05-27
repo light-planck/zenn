@@ -3,7 +3,7 @@ title: "RubyKaigi 2024に初めて参加した感想"
 emoji: "🌺"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Ruby","RubyKaigi", "rubykaigi2024"]
-published: false
+published: true
 ---
 
 ## はじめに
